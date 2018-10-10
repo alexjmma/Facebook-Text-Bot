@@ -1,3 +1,3 @@
 # basicfacebookbot
 
-# facebook bot for CPSC 254
+facebook bot for CPSC 254
